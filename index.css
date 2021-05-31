@@ -37,7 +37,8 @@ body {
   width: 2.4rem;
 }
 .disc-logo-text {
-  height: 1.7rem;
+  margin-right: 1rem;
+  width: 10rem;
   margin-left: 1rem;
 }
 .spacer {
@@ -94,7 +95,7 @@ p {
 }
 /* Discord Contact Button */
 #discord-contact {
-  background: #7289da;
+  background: #5865f2;
 }
 /* Email Contact Button */
 #email-contact {
