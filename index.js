@@ -63,7 +63,6 @@ function alert(txt) {
                     <div class="popdiv" onclick="copy()" id="tocopy">`+ txt +`</div>
                     
                     <div class="button-row">
-                        <button onclick="copy()">Copy</button>
                         <button onclick="close_pagealert()">Close</button>
                     </div>
                 </div>`)
